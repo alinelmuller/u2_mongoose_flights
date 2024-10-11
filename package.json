@@ -1,0 +1,23 @@
+{
+  "name": "u2_mongoose_flights",
+  "version": "1.0.0",
+  "description": "# Mongoose Flights HW",
+  "main": "query.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node query.js",
+    "dev": "nodemon query.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.7.1",
+    "morgan": "^1.10.0",
+    "node": "^20.18.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
